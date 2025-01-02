@@ -43,7 +43,7 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Shaneel-Reddy&theme=dark" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-zeta-seven.vercel.app?user=Shaneel-Reddy&theme=highcontrast" alt="GitHub Streak" /></a>
 </div>
 
 <div align="center">
