@@ -48,10 +48,10 @@
 
 <div align="center">
   <a href="https://github.com/Shaneel-Reddy/github-readme-stats">
-    <img style="width: 390px; height: 200px;" src="https://github-readme-stats.vercel.app/api?username=Shaneel-Reddy&show_icons=true&theme=react" alt="Shaneel-Reddy's GitHub stats" />
+    <img style="width: 390px; height: 200px;" src="https://github-readme-stats-shaneel-reddys-projects.vercel.app/api?username=Shaneel-Reddy&show_icons=true&theme=react" alt="Shaneel-Reddy's GitHub stats" />
   </a>
   <a href="https://github.com/Shaneel-Reddy/github-readme-stats">
-    <img style="width: 270px; height: 200px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shaneel-Reddy&layout=donut&theme=react" alt="Shaneel-Reddy's Most Used Languages" />
+    <img style="width: 270px; height: 200px;" src="https://github-readme-stats-shaneel-reddys-projects.vercel.app/api/top-langs/?username=Shaneel-Reddy&layout=donut&theme=react" alt="Shaneel-Reddy's Most Used Languages" />
   </a>
 </div>
 
