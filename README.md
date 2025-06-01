@@ -10,7 +10,6 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **StockQuest - A Stock Market Analyzing Platform**
  
  🌱 I’m currently learning **AWS,Advanced DSA Topics,Deep Learning**
 
